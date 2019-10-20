@@ -16,7 +16,7 @@ subid= sys.argv[1]
 hemi = sys.argv[2]
 train_on='chunks'
 
-predict = 'condition'
+predict = 'conditions'
 #if train_on == 'taxonomy':
 #	predict='behavior'
 #else:
